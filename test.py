@@ -24,8 +24,4 @@ label_entry.place(relx=0.0, rely=1.0, y=-10, anchor="sw")
 
 root.mainloop()
 
-print(Hello)
-print (hello)
-
-print(gras)
-print(a)
+print("annalena")
