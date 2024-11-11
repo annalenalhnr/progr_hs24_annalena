@@ -24,5 +24,5 @@ label_entry.place(relx=0.0, rely=1.0, y=-10, anchor="sw")
 
 root.mainloop()
 
-print(helloa)
-
+print(Hello)
+print asdf
